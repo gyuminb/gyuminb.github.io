@@ -3,10 +3,10 @@
   <channel>
     <title>Project Pages</title>
     <description>An Integrated Scientific Blogging Template</description>
-    <link>http://localhost:4000/BoBpiler/</link>
-    <atom:link href="http://localhost:4000/BoBpiler/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 15 Dec 2023 17:16:01 +0900</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2023 17:16:01 +0900</lastBuildDate>
+    <link>http://localhost:4000/project-pages/</link>
+    <atom:link href="http://localhost:4000/project-pages/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 15 Dec 2023 17:29:28 +0900</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 17:29:28 +0900</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -27,8 +27,8 @@ Check out the Jekyll docs for more info on how to get the most out of Jekyll. Fi
 
 </description>
         <pubDate>Fri, 15 Dec 2023 16:43:04 +0900</pubDate>
-        <link>http://localhost:4000/BoBpiler/jekyll/update/2023/12/15/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/BoBpiler/jekyll/update/2023/12/15/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/project-pages/jekyll/update/2023/12/15/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/jekyll/update/2023/12/15/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
@@ -42,8 +42,8 @@ Check out the Jekyll docs for more info on how to get the most out of Jekyll. Fi
         <description>
 </description>
         <pubDate>Mon, 02 May 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/BoBpiler/2016/05/02/New-Surface-Visualization/</link>
-        <guid isPermaLink="true">http://localhost:4000/BoBpiler/2016/05/02/New-Surface-Visualization/</guid>
+        <link>http://localhost:4000/project-pages/2016/05/02/New-Surface-Visualization/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/2016/05/02/New-Surface-Visualization/</guid>
         
         <category>plysurface</category>
         
@@ -59,8 +59,8 @@ Check out the Jekyll docs for more info on how to get the most out of Jekyll. Fi
         <description>
 </description>
         <pubDate>Mon, 02 May 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/BoBpiler/2016/05/02/New-Projector/</link>
-        <guid isPermaLink="true">http://localhost:4000/BoBpiler/2016/05/02/New-Projector/</guid>
+        <link>http://localhost:4000/project-pages/2016/05/02/New-Projector/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/2016/05/02/New-Projector/</guid>
         
         <category>projector</category>
         
@@ -277,8 +277,8 @@ HighRGB = np.array([26, 152, 80]) / 255.
 
 </description>
         <pubDate>Mon, 02 May 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/BoBpiler/2016/05/02/New-Presentation/</link>
-        <guid isPermaLink="true">http://localhost:4000/BoBpiler/2016/05/02/New-Presentation/</guid>
+        <link>http://localhost:4000/project-pages/2016/05/02/New-Presentation/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/2016/05/02/New-Presentation/</guid>
         
         <category>presentation</category>
         
@@ -451,8 +451,8 @@ reg =
 Published with MATLAB® R2014b
 </description>
         <pubDate>Mon, 02 May 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/BoBpiler/project1/2016/05/02/New-Matlab-Script/</link>
-        <guid isPermaLink="true">http://localhost:4000/BoBpiler/project1/2016/05/02/New-Matlab-Script/</guid>
+        <link>http://localhost:4000/project-pages/project1/2016/05/02/New-Matlab-Script/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/project1/2016/05/02/New-Matlab-Script/</guid>
         
         <category>matlab</category>
         
@@ -470,8 +470,8 @@ Published with MATLAB® R2014b
         <description>
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/BoBpiler/project1/2016/05/01/New-Notebook/</link>
-        <guid isPermaLink="true">http://localhost:4000/BoBpiler/project1/2016/05/01/New-Notebook/</guid>
+        <link>http://localhost:4000/project-pages/project1/2016/05/01/New-Notebook/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/project1/2016/05/01/New-Notebook/</guid>
         
         <category>jupyter</category>
         
@@ -665,8 +665,8 @@ STL
 
 </description>
         <pubDate>Tue, 19 Apr 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/BoBpiler/project1/2016/04/19/New-Post/</link>
-        <guid isPermaLink="true">http://localhost:4000/BoBpiler/project1/2016/04/19/New-Post/</guid>
+        <link>http://localhost:4000/project-pages/project1/2016/04/19/New-Post/</link>
+        <guid isPermaLink="true">http://localhost:4000/project-pages/project1/2016/04/19/New-Post/</guid>
         
         <category>post</category>
         
